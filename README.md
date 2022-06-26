@@ -1,8 +1,9 @@
 # Essential Todos
-Clean Architecture 
+
+## Clean Architecture 
 ![alt text](assets/images/Clearn%20Architecture.JPG)
 
-Intigration of each layer
+## Intigration of each layer
 ![alt text](assets/images/Intigration%20Of%20Each%20layer.JPG)
 
 
